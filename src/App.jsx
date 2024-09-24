@@ -59,7 +59,7 @@ const App = () => {
   return (
     <div className='App'>
       <h1>Memory Card Game</h1>
-      <div className='game-info'>
+       <div className='game-info'>
         <p>Turns: {turns}</p>
         <button className="btn" onClick={shuffleCards}>New Game</button>
       </div>
