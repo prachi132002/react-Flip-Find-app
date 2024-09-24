@@ -6,7 +6,6 @@ import image03 from './Img/card3.jpg';
 import image04 from './Img/carddd4.jpg';
 import image05 from './Img/card5.jpg';
 import image06 from './Img/card6.jpg';
-import coverImage from './Img/cardsback.jpeg';
 import backgroundImg from "./Img/background.jpg";
 const ImgCards = [
   { src: image01 },
