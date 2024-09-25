@@ -118,6 +118,9 @@
 .card .card-image:last-child {
   transform: rotateY(180deg);
 }
+.congratulations{
+    color: black;
+}
 
 .btn {
   background-color: rgb(61, 61, 63);
